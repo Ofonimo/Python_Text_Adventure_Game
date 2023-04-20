@@ -1,6 +1,4 @@
-# Python_Text_Adventure_Game
-The text adventure game is coded in python and it is based on a Dan Brown's novel - Angels and Demons.
-Text Adventure Game (Angels and Demons)
+
 1.1  Introduction
 Angels and Demons is a game based on a novel by Dan Brown called Angels and Demons. As a result of the murder of a physicist, Father Silvano Bentivoglio, a symbolist, Robert Langdon, and a scientist, Vittoria Vetra, embark on an adventure involving a secret brotherhood, the Illuminati. Clues lead them all around the Vatican City, including the four altars of science, Earth, Air, Fire, and Water. An assassin, working for the Illuminati, has captured four cardinals, and murdered three. Robert and Vittoria are also searching for a cannister that is a new destructive weapon that could kill millions of people if it explodes.
 
